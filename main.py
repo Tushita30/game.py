@@ -34,5 +34,5 @@ while True:
         print("Final Scores:")
         print(f"CPU:{cpu_score}")
         print(f"player:{player_score}")
-        break
+        
 
